@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1524777322 source:d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\2. Δεύτερο μέρος εργασίας\Μaster chef\main.cpp
+	<iostream>
+	"Team.h"
+	"Player.h"
+
+1524769693 source:d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\2. Δεύτερο μέρος εργασίας\Μaster chef\player.cpp
+	"Player.h"
+
+1524769671 source:d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\2. Δεύτερο μέρος εργασίας\Μaster chef\team.cpp
+	"Team.h"
+
+1524769629 d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\2. Δεύτερο μέρος εργασίας\Μaster chef\player.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1524769631 d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\2. Δεύτερο μέρος εργασίας\Μaster chef\team.h
+	<iostream>
+	"Player.h"
+
