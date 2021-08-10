@@ -14,7 +14,7 @@ protected:
     FoodAward foodAward;
     Round *rounds;
 public:
-    TeamCompetition(){rounds = new Round [3];} ///εφόσον τα μόνα αντικείμενα που χρειάζονται αρχικοποίηση είναι στοιχεία κλάσης, πώς θα τα μηδενίσω αρχικα;; χρειάζονται καν;
+    TeamCompetition(){rounds = new Round [3];} ///Γ¥Γ¶ΓΌΓ³Γ―Γ­ Γ΄Γ΅ Γ¬ΓΌΓ­Γ΅ Γ΅Γ­Γ΄Γ©ΓªΓ¥ΓΓ¬Γ¥Γ­Γ΅ Γ°Γ―Γµ Γ·Γ±Γ¥Γ©ΓΓ¦Γ―Γ­Γ΄Γ΅Γ© Γ΅Γ±Γ·Γ©ΓªΓ―Γ°Γ―ΓΓ§Γ³Γ§ Γ¥ΓΓ­Γ΅Γ© Γ³Γ΄Γ―Γ©Γ·Γ¥ΓΓ΅ ΓªΓ«ΓΓ³Γ§Γ², Γ°ΓΎΓ² Γ¨Γ΅ Γ΄Γ΅ Γ¬Γ§Γ¤Γ¥Γ­ΓΓ³ΓΉ Γ΅Γ±Γ·Γ©ΓªΓ΅;; Γ·Γ±Γ¥Γ©ΓΓ¦Γ―Γ­Γ΄Γ΅Γ© ΓªΓ΅Γ­;
     TeamCompetition(int j, string n, FoodAward f1):Competition(j,n){foodAward=f1;
     rounds = new Round [3];
     int i;
