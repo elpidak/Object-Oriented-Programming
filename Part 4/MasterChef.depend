@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1526311703 source:c:\users\chrys\desktop\masterchefpartd\player.cpp
+	"Player.h"
+
+1524431775 c:\users\chrys\desktop\masterchefpartd\player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1526311277 source:c:\users\chrys\desktop\masterchefpartd\voting.cpp
+
+1527176490 source:c:\users\chrys\desktop\masterchefpartd\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1524425908 c:\users\chrys\desktop\masterchefpartd\immunitycompetition.h
+	"Competition.h"
+
+1524425793 c:\users\chrys\desktop\masterchefpartd\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1527176562 c:\users\chrys\desktop\masterchefpartd\team.h
+	"Player.h"
+
+1524426032 c:\users\chrys\desktop\masterchefpartd\immunityaward.h
+	"Award.h"
+
+1492454413 c:\users\chrys\desktop\masterchefpartd\award.h
+	<string>
+	<iostream>
+
+1527176546 source:c:\users\chrys\desktop\masterchefpartd\main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1524695231 c:\users\chrys\desktop\masterchefpartd\voting.h
+
+1527176715 source:c:\users\chrys\desktop\masterchefpartd\team.cpp
+	"Team.h"
+
+1528022452 source:d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\player.cpp
+	"Player.h"
+	<iostream>
+
+1524431775 d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1528022350 source:d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+	<iostream>
+
+1524425908 d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\immunitycompetition.h
+	"Competition.h"
+
+1524425793 d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1527176562 d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\team.h
+	"Player.h"
+
+1524426032 d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\immunityaward.h
+	"Award.h"
+
+1492454413 d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\award.h
+	<string>
+	<iostream>
+
+1528022373 source:d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+	<iostream>
+
+1528022005 d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\voting.h
+	<iostream>
+	"Vote.h"
+	"Team.h"
+	<vector>
+	<map>
+
+1528022005 d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\vote.h
+	<iostream>
+	"Player.h"
+
+1528022418 source:d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\team.cpp
+	"Team.h"
+	<iostream>
+
+1528028346 source:d:\elpida\documents\Ελπιδα ΑΠΘ\2o eξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\Εργασίες\4. Τέταρτο μέρος εργασίας\masterchefpartd\voting.cpp
+	"Voting.h"
+
